@@ -1,0 +1,19 @@
+{
+  "dialect": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "postgres",
+  "password": "postgres",
+  "database": "demoSequelize",
+  "additional": {
+    "timestamps": false
+  },
+  "skipTables": [],
+  "caseModel": "p",
+  "caseProp": "c",
+  "caseFile": "c",
+  "noAllias": true,
+  "singularize": true,
+  "directory": "./models",
+  "lang": "js"
+}
